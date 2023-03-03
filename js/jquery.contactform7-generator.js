@@ -56,6 +56,7 @@
             fieldTypeSelect.append('<option value="select">Select Menu</option>');
             fieldTypeSelect.append('<option value="checkbox">Checkboxes</option>');
             fieldTypeSelect.append('<option value="radio">Radio Buttons</option>');
+            fieldTypeSelect.append('<option value="date">Date</option>');
             fieldTypeSelectCell.append(fieldTypeSelect);
             fieldTableBodyRow.append(fieldTypeSelectCell);
             //options
